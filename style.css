@@ -237,14 +237,6 @@ span {
     font-size: 12px;
 }
 
-.email-contact {
-    width: 80%;
-    color: gray;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-}
-
 
 /*General CSS and CSS reset*/
 
